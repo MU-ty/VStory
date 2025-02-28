@@ -1,0 +1,26 @@
+﻿# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.opendb
+*.VC.db
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+*.log
+Thumbs.db
+Desktop.ini
